@@ -1,0 +1,27 @@
+<image mode="widthFix" src="../../img/next-course.png"> </image>
+
+<view class="comment">Next 学院 | 前端工程师课程</view>
+<view class="body">
+	<view class="title">待确定方案的：</view>
+
+	<view>志强</view>
+	<view>PC个股诊断的下线计划和替代方案——下线，用新的F10替代（等待与阿彪确定）
+		PC/APP事件掘金的改版计划：下线事件掘金模块</view>
+
+
+	<view>郭博</view>
+	<view>市场情绪：在PC自选股页面加入全市场的实时指标刻画；对于涨停分析：入口去掉，合并入市场情绪。</view>
+
+	<view>吕林</view>
+	<view>PC条件选股的下线计划和替代方案</view>
+
+	<view>校君（8月份确定需求）</view>
+	<view>箱体多空点：与现有DK点、积分活动的关系和处理</view>
+
+	<view class="title">校君组织讨论，两周内定下？</view>
+	<view>APP首页资讯
+	</view>
+	<view>APP资讯中心
+	</view>
+	<view>概念资讯与行情联动：首先应用到板块异动中</view>
+</view>
